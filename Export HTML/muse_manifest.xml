@@ -1,0 +1,56 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_gabarit-italia.css" crc="4088468197" ref="sans-titre---19:italia:sans-titre---20:sans-titre---18"/>
+    <file name="master_gabarit-ruskov.css" crc="268926799" ref="sans-titre---17:sans-titre---16:sans-titre---15:ruskov"/>
+    <file name="master_gabarit-fran_ais.css" crc="4191002112" ref="sans-titre---7:sans-titre---8:sans-titre---6:index"/>
+    <file name="master_gabarit-english.css" crc="4125626317" ref="sans-titre---14:sans-titre---13:sans-titre---9:english"/>
+    <file name="sans-titre---14.css" crc="84482371" ref="sans-titre---14"/>
+    <file name="sans-titre---19.css" crc="198016434" ref="sans-titre---19"/>
+    <file name="sans-titre---13.css" crc="84482371" ref="sans-titre---13"/>
+    <file name="sans-titre---17.css" crc="4084336237" ref="sans-titre---17"/>
+    <file name="italia.css" crc="198016434" ref="italia"/>
+    <file name="sans-titre---9.css" crc="84482371" ref="sans-titre---9"/>
+    <file name="sans-titre---7.css" crc="3915456353" ref="sans-titre---7"/>
+    <file name="sans-titre---8.css" crc="3915456353" ref="sans-titre---8"/>
+    <file name="sans-titre---6.css" crc="3915456353" ref="sans-titre---6"/>
+    <file name="index.css" crc="4156632324" ref="index"/>
+    <file name="english.css" crc="84482371" ref="english"/>
+    <file name="sans-titre---20.css" crc="198016434" ref="sans-titre---20"/>
+    <file name="page-d-accueil.css" crc="4087434520" ref="page-d-accueil"/>
+    <file name="sans-titre---16.css" crc="4084336237" ref="sans-titre---16"/>
+    <file name="sans-titre---18.css" crc="198016434" ref="sans-titre---18"/>
+    <file name="sans-titre---15.css" crc="4084336237" ref="sans-titre---15"/>
+    <file name="ruskov.css" crc="4084336237" ref="ruskov"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="page-d-accueil:ruskov:italia:english:index:sans-titre---6:sans-titre---7:sans-titre---8:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+    <file name="museutils.js" crc="3865766194" ref="page-d-accueil:ruskov:italia:english:index:sans-titre---6:sans-titre---7:sans-titre---8:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+    <file name="pie.js" crc="3827607177" ref="page-d-accueil:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="page-d-accueil:ruskov:italia:english:index:sans-titre---6:sans-titre---7:sans-titre---8:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="ruskov:italia:english:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+    <file name="webpro.js" crc="3903299128" ref="ruskov:italia:english:index:sans-titre---6:sans-titre---7:sans-titre---8:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="ruskov:italia:english:index:sans-titre---6:sans-titre---7:sans-titre---8:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+  </folder>
+  <folder name="images">
+    <file name="leaves.jpg" crc="4029223167" ref="ruskov:italia:english:index:sans-titre---6:sans-titre---7:sans-titre---8:sans-titre---9:sans-titre---13:sans-titre---14:sans-titre---15:sans-titre---16:sans-titre---17:sans-titre---18:sans-titre---19:sans-titre---20"/>
+    <file name="kalapa-transparent(rvb 300dpi).png" crc="188132493" ref="index:sans-titre---6:sans-titre---7:sans-titre---8"/>
+  </folder>
+  <file name="page-d-accueil.html" crc="4118246775" mt="1391871161648" redirect="true"/>
+  <file name="ruskov.html" crc="440682260" mt="1391869874402" redirect="true"/>
+  <file name="italia.html" crc="375107843" mt="1391869877902" redirect="true"/>
+  <file name="english.html" crc="4116459371" mt="1391869868833" redirect="true"/>
+  <file name="index.html" crc="4209078131" mt="1391877771137" redirect="true"/>
+  <file name="sans-titre---6.html" crc="246131725" mt="1391877771141" redirect="true"/>
+  <file name="sans-titre---7.html" crc="3777087607" mt="1391877771150" redirect="true"/>
+  <file name="sans-titre---8.html" crc="328385798" mt="1391877984247" redirect="true"/>
+  <file name="sans-titre---9.html" crc="161078426" mt="1391869557254" redirect="true"/>
+  <file name="sans-titre---13.html" crc="52862114" mt="1391869561305" redirect="true"/>
+  <file name="sans-titre---14.html" crc="182948573" mt="1391869565372" redirect="true"/>
+  <file name="sans-titre---15.html" crc="281587571" mt="1391869588819" redirect="true"/>
+  <file name="sans-titre---16.html" crc="4264839554" mt="1391869583454" redirect="true"/>
+  <file name="sans-titre---17.html" crc="3981383186" mt="1391869574266" redirect="true"/>
+  <file name="sans-titre---18.html" crc="3796604899" mt="1391869599828" redirect="true"/>
+  <file name="sans-titre---19.html" crc="4046506099" mt="1391869603506" redirect="true"/>
+  <file name="sans-titre---20.html" crc="4278275083" mt="1391869607312" redirect="true"/>
+</manifest>

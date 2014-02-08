@@ -1,0 +1,161 @@
+#u514
+{
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	position: relative;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u514:hover
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u514.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	border-width: 1px 0px 0px 1px;
+}
+
+#u516-4
+{
+	border-color: #999999;
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u514:hover #u516-4
+{
+	border-color: #999999;
+}
+
+#u510
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	position: relative;
+}
+
+#u510:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+}
+
+#u511-4
+{
+	border-color: #999999;
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u510:hover #u511-4
+{
+	border-color: #999999;
+}
+
+#u518
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	position: relative;
+}
+
+#u518:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+}
+
+#u510.TabbedPanelsTabSelected,#u518.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	border-width: 1px 1px 0px;
+}
+
+#u521-4
+{
+	border-color: #999999;
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u518:hover #u521-4
+{
+	border-color: #999999;
+}
+
+#u514.TabbedPanelsTabSelected #u516-4,#u510.TabbedPanelsTabSelected #u511-4,#u518.TabbedPanelsTabSelected #u521-4
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u531,#u527,#u523
+{
+	position: relative;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	border-width: 0px 1px 1px;
+}
+
+#tab-panelu490,#u509,#u522,#u532,#u528,#u524
+{
+	position: relative;
+}
+
+#u532_clip,#u528_clip,#u524_clip
+{
+	overflow: hidden;
+}
+
+#u534-6,#u530-6,#u526-6
+{
+	text-align: justify;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u534-2,#u530-2,#u526-2
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #6B6B6B;
+	font-weight: bold;
+}
+
+#u534-4,#u530-4,#u526-4
+{
+	line-height: 20px;
+	color: #999999;
+}
+
+.TabbedPanelsTab /* tabset */
+{
+	cursor: pointer;
+}
+
